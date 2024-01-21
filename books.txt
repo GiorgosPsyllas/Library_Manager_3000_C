@@ -1,0 +1,12 @@
+198 The~Da~Vinci~Code Mystery 454 2003
+567 Dune Science-Fiction 694 1965
+789 Harry~Potter~and~the~Sorcerer's~Stone Fantasy 320 1997
+234 Pride~and~Prejudice Romance 279 1813
+456 To~Kill~a~Mockingbird Historical-Fiction 281 1960
+123 The~Girl~with~the~Dragon~Tattoo Thriller 590 2005
+876 Dracula Horror 418 1897
+345 The~Hobbit Adventure 310 1937
+654 The~Diary~of~a~Young~Girl Biography 283 1947
+432 The~Great~Gatsby Fiction 180 1925
+152	Superman	Science-Fiction	42	1938
+159	Teenage~Mutan~Ninja~Turtles	Science-Fiction	37	1984
